@@ -8,5 +8,10 @@
   },
   "keywords": [],
   "author": "Santiago E",
-  "license": "MIT"
+  "license": "MIT",
+  
+  "bin": {
+    "mensajes-divertidos": "./bin/global.js"
+  },
+  "preferGlobal": true
 }
